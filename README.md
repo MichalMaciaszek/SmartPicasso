@@ -24,11 +24,7 @@ To run tests:
 
 `python3 app.py`
 
+### Specifing instructions (creating a user, project, using gestures)
 
-### Gestures module
-`cd gestures`
-
-`pip install -r requirements.txt`
-
-`python gesture_recognition.py `
+Please read "SmartPicasso - instrukcja.pdf" - polish version only.
 
