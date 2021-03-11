@@ -1,0 +1,5 @@
+tk
+requests
+cv
+mediapipe
+Pillow
